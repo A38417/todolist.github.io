@@ -1,4 +1,4 @@
-importScripts("/todolist.github.io/precache-manifest.dad2d1fbc3ca7827d1e1325eac21abc8.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/todolist.github.io/precache-manifest.1c823fc92567cdfa56c38c8f985b9010.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 // This is the code piece that GenerateSW mode can't provide for us.
 // This code listens for the user's confirmation to update the app.
